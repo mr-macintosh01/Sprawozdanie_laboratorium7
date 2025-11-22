@@ -40,7 +40,8 @@
 
 <img width="1042" height="138" alt="image" src="https://github.com/user-attachments/assets/095f4848-e44c-4e8e-a9db-0888aa40eb4c" />
 
-###11. <code>minikube service remoteweb-svc -n remote --url</code>
+### 11. <code>minikube service remoteweb-svc -n remote --url</code>
+
 <img width="877" height="109" alt="image" src="https://github.com/user-attachments/assets/aa5dbe34-60f7-4d2a-ab32-068b36c7e3d7" />
 <img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/a1736d5c-a693-4d17-ad01-a0113c3ce73a" />
 
